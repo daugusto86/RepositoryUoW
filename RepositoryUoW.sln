@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryUoW.Api", "src\RepositoryUoW.Api\RepositoryUoW.Api.csproj", "{034F88CF-40C8-4F7F-B5E1-4DA8EF7879C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryUoW.Business", "src\RepositoryUoW.Business\RepositoryUoW.Business.csproj", "{A23EBDF3-A444-4261-A443-3A216AB858CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryUoW.Data", "src\RepositoryUoW.Data\RepositoryUoW.Data.csproj", "{82669936-BEF0-4E77-98AA-4C8590C9B472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034F88CF-40C8-4F7F-B5E1-4DA8EF7879C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034F88CF-40C8-4F7F-B5E1-4DA8EF7879C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034F88CF-40C8-4F7F-B5E1-4DA8EF7879C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034F88CF-40C8-4F7F-B5E1-4DA8EF7879C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23EBDF3-A444-4261-A443-3A216AB858CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23EBDF3-A444-4261-A443-3A216AB858CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23EBDF3-A444-4261-A443-3A216AB858CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23EBDF3-A444-4261-A443-3A216AB858CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82669936-BEF0-4E77-98AA-4C8590C9B472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82669936-BEF0-4E77-98AA-4C8590C9B472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82669936-BEF0-4E77-98AA-4C8590C9B472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82669936-BEF0-4E77-98AA-4C8590C9B472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBFA818C-1B5B-4C27-82E1-98049286DAF7}
+	EndGlobalSection
+EndGlobal
